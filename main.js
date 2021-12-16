@@ -13,11 +13,7 @@ window.onload = () => {
         e.preventDefault();
         let target = e.target.href;
   
-        console.log(transition_el);
-  
         transition_el.classList.add('is-active');
-  
-        console.log(transition_el);
   
         setInterval(() => {
           window.location.href = target;
