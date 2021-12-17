@@ -96,31 +96,32 @@ body{
 
 .section:nth-child(3){
   background-image: url(./images/paragliding-1997-dolomitenmann.avif);
-  background-position: right;
+  background-position: left bottom;
 }
 
 .section:nth-child(4){
   background-image: url(./images/red-bull-crashed-ice-2013-lausanne-espoo-2014.avif);
-  background-position: bottom;
+  background-position: bottom right;
 }
 
 .section:nth-child(5){
-  background-image: url(./images/felix-baumgartner-calais.avif);
+  background-image: url(./images/felix-baumgartner-channel.avif);
+  background-position: bottom left;
 }
 
 .section:nth-child(6){
   background-image: url(./images/wings-for-life-world-run-logo-large.png);
-  background-position: bottom;
+  background-position: bottom right;
 }
 
 .section:nth-child(7){
   background-image: url(./images/Infinity-Rigs-Red-Bull-Stratus-Project.jpg);
-  background-position: bottom;
+  background-position: bottom left;
 }
 
 .section:nth-child(8){
   background-image: url(./images/https\ _specials-images.forbesimg.com_imageserve_5e6fdd4ee1e61700080ef230_0x0.jpg\ cropX1=0&cropX2=2000&cropY1=0&cropY2=1125.jpg);
-  background-position: bottom;
+  background-position: bottom right;
 }
 
 .bead{
